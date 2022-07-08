@@ -1,9 +1,9 @@
 # NFT Dashboard: inBetweeners 🧸
 ##### Date: May 2022
-#### Created by: Maria Soriano 👋🏼
 
 
-👉🏼 [Check it out here](https://dune.com/sorianom23/inBetweeners-Stats) 👈🏼
+
+
 
 ![Screenshot](screenshot1.png)
 Example of visualization
